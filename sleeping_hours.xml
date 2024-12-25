@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sleepingHours>
+    <start>22</start>
+    <end>9</end>
+    <response>yes</response>
+    <deactivation>yes</deactivation>
+    <deactivationcode>1111</deactivationcode>
+    <codematch>yes</codematch>
+</sleepingHours>
